@@ -4,3 +4,4 @@
 
 ## Integrantes:
 - Roberto Gonzalo Valdivieso Taborga
+- Diego Gonzales Tayor
