@@ -7,3 +7,4 @@
 - Rodrigo Rojas Soliz
 - Roberto Gonzalo Valdivieso Taborga
 - Diego Gonzales Taylor
+- Mirtha Carolina Soliz Quiroga
