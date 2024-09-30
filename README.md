@@ -4,6 +4,7 @@
 
 ## Integrantes:
 
+- Jhoel Franz Ferrufino Medrano 
 - Rodrigo Rojas Soliz
 - Roberto Gonzalo Valdivieso Taborga
 - Diego Gonzales Taylor
