@@ -10,3 +10,4 @@
 - Diego Gonzales Taylor
 - Mirtha Carolina Soliz Quiroga
 - Samuel Mamani Zapata
+- Tania Karen Lizarazu Colque
