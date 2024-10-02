@@ -13,3 +13,4 @@
 - Tania Karen Lizarazu Colque
 - Jose Antonio Urzagaste Estrada
 - Ivaldo Mendoza Mendoza
+- Rodrigo Ronal Veizaga Guzman
