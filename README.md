@@ -12,3 +12,4 @@
 - Samuel Mamani Zapata
 - Tania Karen Lizarazu Colque
 - Jose Antonio Urzagaste Estrada
+- Ivaldo Mendoza Mendoza
